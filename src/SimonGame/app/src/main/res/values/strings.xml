@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Repeat the sequence</string>
+    <string name="new_game_button">New game</string>>
+    <string name="free_play_button">Free play</string>>
+    <string name="settings_button">Settings</string>>
+    <string name="about_button">About</string>>
+    <string name="about_toolbar_label">About project</string>>
+    <string name="game_over_message">Game over! Current score is %d</string>>
+    <string name="best_score_info"><b>Best score:</b> %d</string>
+    <string name="game_conditions"><b>Game conditions: </b>The application plays a sequence of sounds with a small delay. Then, a user must repeat this sequence by successively pressing the desired buttons</string>
+    <string name="author_info"><b>Author: </b>This game was made by <b><i>yurikobo</i></b> as an educational project of School21</string>
+    <string name="upper_left_button_text">1</string>
+    <string name="upper_right_button_text">2</string>
+    <string name="lower_left_button_text">3</string>
+    <string name="lower_right_button_text">4</string>
+    <string name="level_label">Level: %1$d</string>
+    <string name="record_label">Record: %d</string>
+    <string name="settings_toolbar_label">Game preferences</string>
+
+</resources>
